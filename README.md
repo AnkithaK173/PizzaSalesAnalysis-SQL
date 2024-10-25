@@ -157,6 +157,4 @@ This project demonstrates the use of SQL for data analysis in a business context
 
 ---
 
-If you found this project helpful, please give it a star and follow the repository for more data analysis projects!
 
-Happy querying!
